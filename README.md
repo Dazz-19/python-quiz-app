@@ -1,4 +1,4 @@
-# 🐍 Python Flask Quiz App
+# 🐍 Python Quiz App
 
 A **True/False Python Quiz** built with **Python, Flask, HTML, CSS, and JavaScript**.  
 Test your Python knowledge with a **modern dark-themed UI** and **real-time feedback**.
